@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/Seccion_09_Maps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/Seccion_09_Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f04f27a723823a9b287e7d6b5343cc5b76521a01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandroloragomez/.android/build-cache/8dfd09a9bfeacc39fdef83bea35bfd3dc6d6c5f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/Seccion_09_Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e315826af2733d61b444d6bf7d566baed90bbdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/Seccion_09_Maps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e1005b61bb89b40b2df4dfc8a4a712fcb144b3e5">
+        <dex dex="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/Seccion_09_Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6df3784d2aaee4f7e565b90544f9062875c218d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandroloragomez/.android/build-cache/891917313eb9a85f1036655d3e87c73e49e96b32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/Seccion_09_Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48e95e48b4efc8202e1767107aa611421abe4be1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandroloragomez/.android/build-cache/57c78724be083e3266191a0b44662162625fde0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/Seccion_09_Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dcc5827ae3a9cfc199aa85f9d26428697d16343/classes.dex" />
+    </item>
+
+</items>
